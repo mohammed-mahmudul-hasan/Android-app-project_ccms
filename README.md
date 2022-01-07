@@ -1,6 +1,6 @@
 # Android-app-project
 Project Name: Android Based Community Center Management System
-<p>I did this project during my Bachelor program in DIU. The necessary tools were used to do this project are:<p>
+<p>I did this project during my Bachelor program in DIU. The necessary tools used to do this project are:<p>
  <ul>
    <li>Programming Language: Java</li>
    <li>Design: XML</li>
