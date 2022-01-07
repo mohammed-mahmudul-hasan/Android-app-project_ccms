@@ -11,3 +11,6 @@ Project details link with project report, demonstration video, presentation slid
 <body style="background-color:#FF0000;">
    <h3>Code can be found in master branch</h3>
 </body>
+<body>
+  <p style="color:#FF0000";>Red paragraph text</p>
+</body>
