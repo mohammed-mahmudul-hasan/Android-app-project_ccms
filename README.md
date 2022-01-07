@@ -1,5 +1,5 @@
 Project Name: Android Based Community Center Management System
-<p>The necessary tools were used to do this project are:<p>
+<p>The necessary tools used to do this project are:<p>
  <ul>
    <li>Programming Language: Java</li>
    <li>Design: XML</li>
