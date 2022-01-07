@@ -8,6 +8,6 @@ Project Name: Android Based Community Center Management System
    <li>Database: Firebase Firestore</li>
    </ul>
 Project details link with project report, demonstration video, presentation slides.. click <a href="http://sites.google.com/diu.edu.bd/ccms">here</a>
-<body style="background-color:powderblue;">
-   <h4>Code can be found in master branch</h4>
+<body style="background-color:#FF0000;">
+   <h3>Code can be found in master branch</h3>
 </body>
