@@ -9,5 +9,5 @@ Project Name: Android Based Community Center Management System
    </ul>
 Project details link with project report, demonstration video, presentation slides.. click <a href="http://sites.google.com/diu.edu.bd/ccms">here</a>
 <body style="background-color:powderblue;">
-   <h1>Code can be found in master branch</h1>
+   <h4>Code can be found in master branch</h4>
 </body>
